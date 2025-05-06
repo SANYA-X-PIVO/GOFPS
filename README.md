@@ -31,3 +31,5 @@ git clone https://github.com/SANYA-X-PIVO/GOFPS.git
 cd GOFPS
 go run app.go
 ```
+
+## ⚠️ Внимание! Используйте в образовательных целях. Автор не несет ответственности за неправомерное использование.
