@@ -30,6 +30,8 @@ GOFPS - это высокопроизводительный порт-скане�
 Скачайте и установите Go 1.20+
 git clone https://github.com/SANYA-X-PIVO/GOFPS.git
 cd GOFPS
+go mod init gofps
+go get github.com/fatih/color
 go run app.go
 ```
 
